@@ -6,7 +6,7 @@ homepage: https://www.rafalfuczynski.com/frino/icons/
 repository: https://github.com/clean/frino_icons
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
